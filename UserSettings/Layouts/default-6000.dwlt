@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -594,7 +594,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - 'Assets/0_Simulations/[Your Experiment Name]'
+    - Assets/Common
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -604,28 +604,28 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - 'Assets/0_Simulations/[Your Experiment Name]'
+  - Assets/Common
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Unity\VirtualLaboratoryIITK
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 63}
     m_SelectedIDs:
-    - m_Data: 74042
+    - m_Data: 51358
     m_LastClickedID:
-      m_Data: 74042
+      m_Data: 51358
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 73990
-    - m_Data: 73998
-    - m_Data: 74006
-    - m_Data: 74014
-    - m_Data: 74034
-    - m_Data: 74042
-    - m_Data: 74142
-    - m_Data: 74144
+    - m_Data: 50970
+    - m_Data: 50972
+    - m_Data: 50974
+    - m_Data: 50976
+    - m_Data: 50978
+    - m_Data: 50980
+    - m_Data: 50982
+    - m_Data: 51286
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -657,7 +657,15 @@ MonoBehaviour:
     m_SelectedIDs: []
     m_LastClickedID:
       m_Data: 0
-    m_ExpandedIDs: []
+    m_ExpandedIDs:
+    - m_Data: 0
+    - m_Data: 50970
+    - m_Data: 50972
+    - m_Data: 50974
+    - m_Data: 50976
+    - m_Data: 50978
+    - m_Data: 50980
+    - m_Data: 50982
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -684,9 +692,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: -75940
-    m_LastClickedInstanceID: -75940
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -810,14 +817,11 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: -75940
+      m_SelectedIDs: []
       m_LastClickedID:
-        m_Data: -75940
+        m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -63150
-      - m_Data: -61510
-      - m_Data: -56622
+      - m_Data: -1304
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1432,7 +1436,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
+    m_Value: {x: -0, y: 0, z: -0, w: -1}
   m_Size:
     m_Target: 10.344622
     speed: 2
